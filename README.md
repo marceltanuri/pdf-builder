@@ -6,4 +6,4 @@ Examples of implementation reports are available.
 
 Also compatible with Liferay DXP 7.x
 
-Have fun
+Have fun!
