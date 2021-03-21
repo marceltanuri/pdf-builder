@@ -1,0 +1,8 @@
+Bundle-Name: PDF Builder
+Bundle-SymbolicName: com.mtanuri.pdfbuilder
+Bundle-Version: 1.0.0
+Import-Package: \
+    !org.apache.jcp.xml.*,\
+	!org.bouncycastle.*,\
+	*
+Conditional-Package: com.itextpdf.*
